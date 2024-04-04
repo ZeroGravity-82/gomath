@@ -1,3 +1,3 @@
-module github.com/ZeroGravity-82/gomath
+module gomath
 
 go 1.22.0
